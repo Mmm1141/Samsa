@@ -134,3 +134,12 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+
+
+python-telegram-bot==13.7
+pdfplumber==0.7.5
+requests==2.28.1
+python-dotenv==0.21.0
+
+
+python-3.9.13
